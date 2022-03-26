@@ -1,4 +1,4 @@
---------------------
-permalink: /demo.html
---------------------
-IndustryPortal
+---
+permalink: /index.html
+---
+Industry portal
