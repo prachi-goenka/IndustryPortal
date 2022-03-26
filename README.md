@@ -1,1 +1,4 @@
-# IndustryPortal
+--------------------
+permalink: /demo.html
+--------------------
+IndustryPortal
